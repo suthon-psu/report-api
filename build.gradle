@@ -22,6 +22,7 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 	implementation 'net.sf.jasperreports:jasperreports:6.21.3'
+	implementation 'net.sf.barcode4j:barcode4j:2.1'
 }
 
 tasks.named('test') {
