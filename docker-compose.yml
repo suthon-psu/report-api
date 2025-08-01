@@ -1,0 +1,15 @@
+services:
+  spring-app:
+    container_name: report_api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "127.0.0.1:8091:8080"
+    environment:
+      - SPRING_PROFILES_ACTIVE=prod
+      - REPORT_DIR=/app/report
+      - REPORT_CACHE_ENABLED=true
+    volumes:
+      - ./sample:/app/report
+      - ./logs:/app/logs

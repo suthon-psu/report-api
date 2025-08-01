@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fontFamilies>
+    <fontFamily name="Kanit">
+        <normal>fonts/Kanit.ttf</normal>
+        <bold>fonts/Kanit-Bold.ttf</bold>
+        <italic>fonts/Kanit-Italic.ttf</italic>
+        <boldItalic>fonts/Kanit-BoldItalic.ttf</boldItalic>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts>
+            <export key="net.sf.jasperreports.html">Kanit, Arial, Helvetica, sans-serif</export>
+        </exportFonts>
+    </fontFamily>
+    <fontFamily name="THSarabunNew">
+        <normal>fonts/THSarabunNew.ttf</normal>
+        <bold>fonts/THSarabunNewBold.ttf</bold>
+        <italic>fonts/THSarabunNewItalic.ttf</italic>
+        <boldItalic>fonts/THSarabunNewBoldItalic.ttf</boldItalic>
+        <pdfEncoding>Identity-H</pdfEncoding>
+        <pdfEmbedded>true</pdfEmbedded>
+        <exportFonts>
+            <export key="net.sf.jasperreports.html">THSarabunNew, Arial, Helvetica, sans-serif</export>
+        </exportFonts>
+    </fontFamily>   
+</fontFamilies>

@@ -1,0 +1,35 @@
+{
+  "organization": "DIIS PSU",
+  "employees": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "position": "Software Engineer",
+      "salary": 75000.00
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "position": "Project Manager",
+      "salary": 85000.00
+    },
+    {
+      "id": 3,
+      "name": "Mike Johnson",
+      "position": "UI/UX Designer",
+      "salary": 70000.00
+    },
+    {
+      "id": 4,
+      "name": "Emily Brown",
+      "position": "Data Analyst",
+      "salary": 72000.00
+    },
+    {
+      "id": 5,
+      "name": "David Wilson",
+      "position": "DevOps Engineer",
+      "salary": 80000.00
+    }
+  ]
+}
